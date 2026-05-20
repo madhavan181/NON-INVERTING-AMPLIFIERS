@@ -48,3 +48,4 @@ Non-inverting amplifier:
 
 
 ## RESULT:
+Thus, the non-inverting amplifier are designed and its performance was successfully tested using op-amp IC 741.
